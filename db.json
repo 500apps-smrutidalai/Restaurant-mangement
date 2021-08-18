@@ -1,0 +1,29 @@
+{
+    "user":[
+        {
+            "name":"smruti",
+            "email":"smruti@gmail.com",
+            "password":"smruti@123",
+            "id":1
+        },
+        {
+            "name":"ambika",
+            "email":"ambika@gmail.com",
+            "password":"ambika@123",
+            "id":2
+        },
+        {
+            "name":"sony",
+            "email":"sony@gmail.com",
+            "password":"sony@123",
+            "id":3
+        },
+        {
+            "name":"sweet",
+            "email":"sweet@gmail.com",
+            "password":"sweet@123",
+            "id":4
+        }
+    ]
+
+}
